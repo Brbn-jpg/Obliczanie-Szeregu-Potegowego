@@ -1,0 +1,13 @@
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\obj\Debug\ProjektNR2_Kuźnicki61961.csproj.AssemblyReference.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\obj\Debug\ProjektNR2_Kuźnicki61961.csproj.SuggestedBindingRedirects.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\obj\Debug\ProjektNR2_Kuźnicki61961.Kokpit_projektu.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\obj\Debug\ProjektNR2_Kuźnicki61961.Properties.Resources.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\obj\Debug\ProjektNR2_Kuźnicki61961.csproj.GenerateResource.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\obj\Debug\ProjektNR2_Kuźnicki61961.csproj.CoreCompileInputs.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\bin\Debug\ProjektNR2_Kuźnicki61961.exe.config
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\bin\Debug\ProjektNR2_Kuźnicki61961.exe
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\bin\Debug\ProjektNR2_Kuźnicki61961.pdb
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\obj\Debug\ProjektNR2_Kuźnicki61961.SzeregLaboratoryjny.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\obj\Debug\ProjektNR2_Kuźnicki61961.exe
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\obj\Debug\ProjektNR2_Kuźnicki61961.pdb
+E:\Szkola\Semestr1\C#_Projekty_Completed\ProjektNR2_Kuźnicki61961\ProjektNR2_Kuźnicki61961\obj\Debug\ProjektNR2_Kuźnicki61961.SzeregIndywidualny.resources
